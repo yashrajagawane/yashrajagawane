@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashraj Vilas Agawane</h1>
+<h1 align="center">Hi 👋, I'm Yashraj Agawane</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Developer;DSA+Enthusiast;Building+Intelligent+Systems" />
@@ -95,12 +95,16 @@ Machine learning application that predicts multiple diseases based on medical in
 
 # 🌐 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/yashraj-agawane
+<p align="left">
 
-📧 Email  
-agawaneyash865@gmail.com
+<a href="https://www.linkedin.com/in/yashraj-agawane" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+</a>
 
----
+<a href="mailto:agawaneyash865@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/>
+</a>
 
-⭐ *"Code is like humor. When you have to explain it, it's bad."*
+</p>
+
+⭐ *"Build things. Break things. Learn things"*
