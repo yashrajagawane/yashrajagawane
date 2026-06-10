@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="header.svg" width="100%" alt="Yashraj Agawane"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Deep+Learning+%26+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashrajagawane&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/yashrajagawane?color=00FF9C&style=for-the-badge&logo=github&label=FOLLOWERS)
+
+</div>
+
+---
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 240" width="100%">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
