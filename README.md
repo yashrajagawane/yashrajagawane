@@ -103,8 +103,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
