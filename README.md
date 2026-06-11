@@ -103,12 +103,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashrajagawane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="96%"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
