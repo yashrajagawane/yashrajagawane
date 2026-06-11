@@ -99,19 +99,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 <br/><br/>
 
-<!-- Contribution Stats (from your GitHub overview) -->
-### 🎯 Contribution Breakdown
-```
-┌─────────────────────────────────────┐
-│          Activity Overview          │
-│                                     │
-│   Commits        ████████░░  80%    │
-│   Pull Requests  ██░░░░░░░░  20%    │
-│   Code Review    ░░░░░░░░░░  —      │
-│   Issues         ░░░░░░░░░░  —      │
-└─────────────────────────────────────┘
-```
-
 </div>
 
 ---
