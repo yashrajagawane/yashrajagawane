@@ -1,113 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 240" width="100%">
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2332" stroke-width="0.8"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e2a3a" stroke-width="0.6"/>
     </pattern>
     <linearGradient id="fadeL" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="30%" stop-color="transparent"/>
+      <stop offset="0%" stop-color="#0a0f16"/>
+      <stop offset="35%" stop-color="transparent"/>
     </linearGradient>
     <linearGradient id="fadeR" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="70%" stop-color="transparent"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+      <stop offset="65%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#0a0f16"/>
     </linearGradient>
     <linearGradient id="fadeT" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="40%" stop-color="transparent"/>
+      <stop offset="0%" stop-color="#0a0f16"/>
+      <stop offset="45%" stop-color="transparent"/>
     </linearGradient>
     <linearGradient id="fadeB" x1="0" x2="0" y1="0" y2="1">
-      <stop offset="55%" stop-color="transparent"/>
-      <stop offset="100%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#0a0f16"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
 
-  <rect width="860" height="240" fill="#0d1117"/>
+  <!-- Background -->
+  <rect width="860" height="240" fill="#0a0f16"/>
   <rect width="860" height="240" fill="url(#grid)"/>
   <rect width="860" height="240" fill="url(#fadeL)"/>
   <rect width="860" height="240" fill="url(#fadeR)"/>
   <rect width="860" height="240" fill="url(#fadeT)"/>
   <rect width="860" height="240" fill="url(#fadeB)"/>
 
-  <circle cx="430" cy="118" r="180" fill="none" stroke="#00ff9c" stroke-width="0.4" opacity="0.15"/>
-  <circle cx="430" cy="118" r="220" fill="none" stroke="#00ff9c" stroke-width="0.3" opacity="0.08"/>
+  <!-- Subtle ring accents -->
+  <circle cx="430" cy="118" r="170" fill="none" stroke="#4a90d9" stroke-width="0.5" opacity="0.08"/>
+  <circle cx="430" cy="118" r="210" fill="none" stroke="#4a90d9" stroke-width="0.3" opacity="0.05"/>
 
   <!-- Shell prompt -->
-  <text x="430" y="52" font-family="monospace" font-size="12" fill="#00ff9c" opacity="0.5" text-anchor="middle">
+  <text x="430" y="52" font-family="'Courier New', monospace" font-size="11" fill="#5a7a9a" text-anchor="middle" letter-spacing="2" opacity="0.6">
     &gt; initializing profile.sh
-    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.25;0.6" dur="2.8s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Main name -->
-  <text x="430" y="108" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3" filter="url(#glow)">
+  <!-- Main name — no glow filter, just crisp white -->
+  <text x="430" y="108" font-family="'Courier New', monospace" font-size="40" font-weight="bold" fill="#e8edf2" text-anchor="middle" letter-spacing="4" opacity="0">
     YASHRAJ AGAWANE
-    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.7s" fill="freeze"/>
   </text>
 
-  <!-- Left divider -->
-  <line x1="200" y1="120" x2="310" y2="120" stroke="#00ff9c" stroke-width="0.8" opacity="0.4">
-    <animate attributeName="x1" values="430;200" dur="0.9s" fill="freeze" begin="0.6s"/>
-    <animate attributeName="opacity" values="0;0.4" dur="0.2s" fill="freeze" begin="0.6s"/>
+  <!-- Divider lines — steel blue, subtle -->
+  <line x1="200" y1="120" x2="310" y2="120" stroke="#4a90d9" stroke-width="0.7" opacity="0">
+    <animate attributeName="x1" values="430;200" dur="0.9s" fill="freeze" begin="0.7s"/>
+    <animate attributeName="opacity" values="0;0.35" dur="0.3s" fill="freeze" begin="0.7s"/>
+  </line>
+  <line x1="550" y1="120" x2="660" y2="120" stroke="#4a90d9" stroke-width="0.7" opacity="0">
+    <animate attributeName="x2" values="430;660" dur="0.9s" fill="freeze" begin="0.7s"/>
+    <animate attributeName="opacity" values="0;0.35" dur="0.3s" fill="freeze" begin="0.7s"/>
   </line>
 
-  <!-- Right divider -->
-  <line x1="550" y1="120" x2="660" y2="120" stroke="#00ff9c" stroke-width="0.8" opacity="0.4">
-    <animate attributeName="x2" values="430;660" dur="0.9s" fill="freeze" begin="0.6s"/>
-    <animate attributeName="opacity" values="0;0.4" dur="0.2s" fill="freeze" begin="0.6s"/>
-  </line>
+  <!-- Cycling roles — muted blue-white, no neon -->
 
-  <!--
-    Animated cycling role text — 4 phrases, each shown for 2.5s, total cycle = 10s
-    Timing per phrase: fade-in 0.4s, hold ~1.7s, fade-out 0.4s
-    keyTimes align to: start-fade-in / end-fade-in / start-fade-out / end-fade-out / rest
-  -->
-
-  <!-- Phrase 1: FULL STACK DEVELOPER — starts at 1.2s -->
-  <text x="430" y="152" font-family="'Courier New', monospace" font-size="15" fill="#00ff9c"
-        text-anchor="middle" letter-spacing="6" opacity="0">
+  <!-- Phrase 1: FULL STACK DEVELOPER -->
+  <text x="430" y="152" font-family="'Courier New', monospace" font-size="13" fill="#7aabcf"
+        text-anchor="middle" letter-spacing="5" opacity="0">
     FULL STACK DEVELOPER
     <animate attributeName="opacity"
-      values="0;0.85;0.85;0;0"
+      values="0;0.75;0.75;0;0"
       keyTimes="0;0.04;0.21;0.25;1"
       dur="10s" begin="1.2s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Phrase 2: AI / ML ENGINEER — starts at 1.2s + 2.5s = 3.7s offset, shown at 25% of cycle -->
-  <text x="430" y="152" font-family="'Courier New', monospace" font-size="15" fill="#00ff9c"
-        text-anchor="middle" letter-spacing="6" opacity="0">
+  <!-- Phrase 2: AI / ML ENGINEER -->
+  <text x="430" y="152" font-family="'Courier New', monospace" font-size="13" fill="#7aabcf"
+        text-anchor="middle" letter-spacing="5" opacity="0">
     AI / ML ENGINEER
     <animate attributeName="opacity"
-      values="0;0;0.85;0.85;0;0"
+      values="0;0;0.75;0.75;0;0"
       keyTimes="0;0.25;0.29;0.46;0.5;1"
       dur="10s" begin="1.2s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Phrase 3: DEEP LEARNING — at 50% of cycle -->
-  <text x="430" y="152" font-family="'Courier New', monospace" font-size="15" fill="#00ff9c"
-        text-anchor="middle" letter-spacing="6" opacity="0">
+  <!-- Phrase 3: DEEP LEARNING -->
+  <text x="430" y="152" font-family="'Courier New', monospace" font-size="13" fill="#7aabcf"
+        text-anchor="middle" letter-spacing="5" opacity="0">
     DEEP LEARNING
     <animate attributeName="opacity"
-      values="0;0;0.85;0.85;0;0"
+      values="0;0;0.75;0.75;0;0"
       keyTimes="0;0.5;0.54;0.71;0.75;1"
       dur="10s" begin="1.2s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Phrase 4: COMPUTER VISION — at 75% of cycle -->
-  <text x="430" y="152" font-family="'Courier New', monospace" font-size="15" fill="#00ff9c"
-        text-anchor="middle" letter-spacing="6" opacity="0">
+  <!-- Phrase 4: COMPUTER VISION -->
+  <text x="430" y="152" font-family="'Courier New', monospace" font-size="13" fill="#7aabcf"
+        text-anchor="middle" letter-spacing="5" opacity="0">
     COMPUTER VISION
     <animate attributeName="opacity"
-      values="0;0;0.85;0.85;0;0"
+      values="0;0;0.75;0.75;0;0"
       keyTimes="0;0.75;0.79;0.96;1;1"
       dur="10s" begin="1.2s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Blinking cursor -->
-  <rect x="416" y="95" width="3" height="18" fill="#00ff9c" opacity="0.9">
-    <animate attributeName="opacity" values="0.9;0;0.9" dur="0.8s" repeatCount="indefinite"/>
-    <animate attributeName="x" values="416;590;590" dur="0.5s" fill="freeze" begin="0.3s"/>
+  <!-- Blinking cursor — same steel blue, subtle -->
+  <rect x="416" y="95" width="2.5" height="16" fill="#4a90d9" opacity="0">
+    <animate attributeName="opacity" values="0;0.7;0;0.7" dur="1s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x" values="416;588;588" dur="0.5s" fill="freeze" begin="0.4s"/>
   </rect>
 </svg>
