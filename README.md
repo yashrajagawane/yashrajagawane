@@ -146,18 +146,51 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-agawane)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agawaneyash865@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashrajagawane)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/yashrajagawane)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     Open to Internships · Freelance · Collaborations     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 💬 Got an idea? | 🤝 Want to collaborate? | 📬 Just want to connect? |
+|:-:|:-:|:-:|
+| Let's build it | Open to cool projects | Always up for it |
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF9C,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003322,100:00FF9C&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FF9C&fontAlignY=65&animation=fadeIn&desc=Drop%20a%20⭐%20if%20you%20found%20something%20useful&descSize=13&descAlignY=85&descColor=8B949E"/>
 
-*⭐ "Build things. Break things. Learn things."*
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Build+things.+Break+things.+Learn+things.;Open+to+work+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
 
 </div>
