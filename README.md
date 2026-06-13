@@ -157,30 +157,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 <br/>
 
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     Open to Internships · Freelance · Collaborations     ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 💬 Got an idea? | 🤝 Want to collaborate? | 📬 Just want to connect? |
-|:-:|:-:|:-:|
-| Let's build it | Open to cool projects | Always up for it |
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
