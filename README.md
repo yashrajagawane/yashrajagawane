@@ -131,10 +131,13 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-snake-dark.svg" width="97%"/>
+</picture>
 
 </div>
-
 
 ---
 
