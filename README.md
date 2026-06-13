@@ -126,6 +126,16 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 </div>
 
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+
 ---
 
 ## 🌐 Connect With Me
