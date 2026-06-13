@@ -79,25 +79,34 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashrajagawane&show_icons=true&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajagawane&layout=compact&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&langs_count=8" height="180"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=yashrajagawane&label=Profile%20Views&color=00FF9C&style=for-the-badge" />
 
-<br/><br/>
+<br><br>
+
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrajagawane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FF9C&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajagawane&layout=compact&theme=tokyonight&langs_count=8&border_color=00FF9C&border_radius=15"/>
+
+<br><br>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=yashrajagawane&theme=tokyonight&border=00FF9C&ring=00FF9C&fire=FF6D00&currStreakLabel=00FF9C&border_radius=12" height="180"/>
+<img src="https://streak-stats.demolab.com?user=yashrajagawane&theme=tokyonight&border=00FF9C&ring=00FF9C&fire=FF6D00&currStreakLabel=00FF9C&border_radius=15" />
 
-<br/><br/>
+<br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajagawane&theme=tokyo-night&hide_border=false&border_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" width="96%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajagawane&theme=tokyo-night&hide_border=false&border_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" />
 
-<br/><br/>
+<br><br>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=yashrajagawane&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 
 </div>
 
