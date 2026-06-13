@@ -79,37 +79,41 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=yashrajagawane&label=Profile%20Views&color=00FF9C&style=for-the-badge" />
-
-<br><br>
-
-<!-- Main Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrajagawane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00FF9C&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajagawane&layout=compact&theme=tokyonight&langs_count=8&border_color=00FF9C&border_radius=15"/>
-
-<br><br>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=yashrajagawane&theme=tokyonight&border=00FF9C&ring=00FF9C&fire=FF6D00&currStreakLabel=00FF9C&border_radius=15" />
-
-<br><br>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajagawane&theme=tokyo-night&hide_border=false&border_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C" />
-
-<br><br>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yashrajagawane&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajagawane&show_icons=true&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github" height="185" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajagawane&layout=compact&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&langs_count=8&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="185" alt="Top Languages"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashrajagawane&theme=tokyonight&border=00FF9C&ring=00FF9C&fire=FF6D00&currStreakLabel=00FF9C&sideLabels=00FF9C&sideNums=FFFFFF&dates=8B949E&background=0D1117&stroke=00FF9C&border_radius=12" height="185" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajagawane&theme=tokyo-night&bg_color=0D1117&hide_border=false&border_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=003322&custom_title=Yash's%20Contribution%20Graph" width="97%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=yashrajagawane&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS&labelColor=0D1117)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/yashrajagawane?style=for-the-badge&color=00FF9C&labelColor=0D1117&logo=github&logoColor=00FF9C)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/yashrajagawane?style=for-the-badge&affiliations=OWNER&color=00FF9C&labelColor=0D1117&logo=github&logoColor=00FF9C)
+
+</div>
 ---
 
 ## 🌐 Connect With Me
