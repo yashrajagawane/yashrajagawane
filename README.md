@@ -116,17 +116,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 <br/>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yashrajagawane&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS&labelColor=0D1117)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/yashrajagawane?style=for-the-badge&color=00FF9C&labelColor=0D1117&logo=github&logoColor=00FF9C)
-&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/yashrajagawane?style=for-the-badge&affiliations=OWNER&color=00FF9C&labelColor=0D1117&logo=github&logoColor=00FF9C)
-
-</div>
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
