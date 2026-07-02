@@ -79,44 +79,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 </div>
 
 ---
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashrajagawane&show_icons=true&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub Stats"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajagawane&layout=compact&theme=tokyonight&border_color=00FF9C&border_radius=12&hide_border=false&langs_count=8&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashrajagawane&theme=tokyonight&border=00FF9C&ring=00FF9C&fire=FF6D00&currStreakLabel=00FF9C&sideLabels=00FF9C&sideNums=FFFFFF&dates=8B949E&background=0D1117&stroke=00FF9C&border_radius=12" width="70%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajagawane&theme=tokyo-night&bg_color=0D1117&hide_border=false&border_color=00FF9C&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=003322&custom_title=Yash's%20Contribution%20Graph" width="97%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
