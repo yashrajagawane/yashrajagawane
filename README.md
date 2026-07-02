@@ -79,6 +79,7 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 </div>
 
 ---
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -88,6 +89,11 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yashrajagawane/yashrajagawane/output/github-snake-dark.svg" width="97%"/>
 </picture>
+
+</div>
+
+---
+-->
 
 </div>
 
