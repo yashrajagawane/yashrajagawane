@@ -18,6 +18,7 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 ```
 
 
+
 ---
 
 ## ⚡ Tech Stack
