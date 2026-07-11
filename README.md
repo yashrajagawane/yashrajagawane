@@ -110,6 +110,10 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
 </a>
 
+<a href="https://twitter.com/yashraj_agawane" target="_blank" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45">
+</a>
+
 </div>
 
 <br/>
