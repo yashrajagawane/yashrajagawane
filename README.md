@@ -124,8 +124,10 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 </div>
 
+<!--
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Build+things.+Break+things.+Learn+things.;Open+to+work+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
 
 </div>
+-->
