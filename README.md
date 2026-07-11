@@ -101,15 +101,26 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 <div align="center">ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ</div>
 <br/> 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/yashraj-agawane" target="_blank" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">
 </a>
-<a href="mailto:agawaneyash865@gmail.com" target="_blank" align="center">
+<a href="https://www.instagram.com/yashraj_.cr7/" target="_blank" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
 </a>
 <a href="https://github.com/yashrajagawane" target="_blank" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-b727a4e5-8e83-4c95-97ea-7c6c8fac33d6.gif" width="45">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=45&animation=shake" width="45">
 </a>
+<a href="mailto:agawaneyash865@gmail.com" target="_blank" align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=email&size=45&animation=shake" width="45">
+</a>
+<a href="https://wa.me/917058400490" target="_blank" align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=45&animation=shake" width="45">
+</a>
+<a href="https://t.me/+917058400490" target="_blank" align="center">
+<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=45&animation=shake" width="45">
+</a>
+
 </div>
 
 <br/>
