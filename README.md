@@ -98,8 +98,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -115,8 +113,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 </div>
 
 <br/>
-
----
 
 <!--
 <div align="center">
