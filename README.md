@@ -118,13 +118,13 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 
+<!--
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003322,100:00FF9C&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FF9C&fontAlignY=65&animation=fadeIn&desc=Drop%20a%20⭐%20if%20you%20found%20something%20useful&descSize=13&descAlignY=85&descColor=8B949E"/>
 
 </div>
 
-<!--
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Build+things.+Break+things.+Learn+things.;Open+to+work+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
