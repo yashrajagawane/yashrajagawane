@@ -77,6 +77,7 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 | **🧬 Disease Prediction System** | Predicts multiple diseases from medical input data using classical ML models | Python · scikit-learn · Streamlit | [Repo](https://github.com/yashrajagawane/Multiple-Disease-Prediction-System) |
 
 </div>
+<br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 
@@ -123,7 +124,9 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 </div>
 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+![GitHub GIF](githubgif.gif)
+
+
 
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ</div>
