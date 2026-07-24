@@ -99,22 +99,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 
 </details>
-<br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<div align="center">ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ</div>
-<br/> 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yashraj-agawane" target="_blank" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">
-</a>
-
-<a href="https://www.instagram.com/yashraj_.cr7/" target="_blank" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
-</a>
-
-<a href="https://twitter.com/yashraj_agawane" target="_blank" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45">
-</a>
 
 <!--
 <a href="https://wa.me/917058400490" target="_blank">
@@ -140,3 +124,27 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 -->
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+<br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<div align="center">ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ</div>
+<br/> 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yashraj-agawane" target="_blank" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">
+</a>
+
+<a href="https://www.instagram.com/yashraj_.cr7/" target="_blank" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
+</a>
+
+<a href="https://twitter.com/yashraj_agawane" target="_blank" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45">
+</a>
+
+<!--
+<a href="https://wa.me/917058400490" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45">
+</a>
+-->
+</div>
