@@ -65,6 +65,12 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+
+
+
+
+
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -78,6 +84,10 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 </div>
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+-->
+
+
+
 
 
 
@@ -96,8 +106,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 ---
 -->
-
-
 
 </details>
 
