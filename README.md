@@ -2,7 +2,9 @@
   <img src="assets/banner.svg" width="100%">
 </p>
 
+
 ## 👨‍💻 About Me
+
 
 ```yaml
 name:        Yashraj Agawane
@@ -18,8 +20,9 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 ```
 
 
-
 ---
+
+
 
 ## ⚡ Tech Stack
 <div align="left">
