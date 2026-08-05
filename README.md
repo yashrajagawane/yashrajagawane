@@ -69,9 +69,6 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 
 
 
-
-
-
 <!--
 ## 🚀 Featured Projects
 
@@ -135,6 +132,7 @@ currently:   Building HireMind AI — an AI-powered recruitment platform
 -->
 
 ![GitHub GIF](githubgif.gif)
+
 
 
 
