@@ -15,7 +15,7 @@ focus:
   - Deep Learning, Computer Vision & Intelligent Systems
   - Data Structures & Algorithms
   - AI-powered products that solve real-world problems
-currently:   Building HireMind AI — an AI-powered recruitment platform
+
 ```
 
 
