@@ -107,7 +107,10 @@ focus:
 </div>
 -->
 
-![GitHub GIF](githubgif.gif)
+<p align="center">
+  <img src="assets/githubgif.gif" width="800">
+</p>
+
 
 
 
