@@ -8,13 +8,13 @@
 ```yaml
 name:        Yashraj Agawane
 role:        Full Stack Developer & AI/ML Engineer
-education:   BTech IT – 3rd Year
+education:   BTech in Information Technology – Final Year
 location:    India 🇮🇳
 focus:
-  - Building production-grade full-stack applications
-  - Deep Learning, Computer Vision & Intelligent Systems
+  - Production-grade Full Stack Development
+  - AI/ML, Deep Learning & Computer Vision
   - Data Structures & Algorithms
-  - AI-powered products that solve real-world problems
+  - Building intelligent products for real-world problems
 
 ```
 
